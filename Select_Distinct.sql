@@ -16,5 +16,5 @@ FROM
 EMPLOYEE_DEMOGRAPHICS;
 # PMDAS
 
-SELECT distinct first_name,gender
+SELECT distinct *
 from EMPLOYEE_DEMOGRAPHICS;
